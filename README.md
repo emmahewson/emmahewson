@@ -2,7 +2,7 @@
 
 I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on Code Institute's Level 5 Diploma in Web Application Development. Find out more about me and get in touch here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-emmahewson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/emmajmhewson/)](https://www.linkedin.com/in/emmajmhewson/)
+[![Linkedin Badge](https://img.shields.io/badge/-emmajmhewson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/emmajmhewson/)](https://www.linkedin.com/in/emmajmhewson/)
 [![Gmail Badge](https://img.shields.io/badge/-emhewson@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emhewson@hotmail.com)](mailto:emhewson@hotmail.com)
 
 
