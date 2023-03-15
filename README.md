@@ -31,7 +31,7 @@ I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 
-## ⚡ Other Tech Skills
+## ⚡ Other Skills
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
