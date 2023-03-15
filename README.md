@@ -5,8 +5,12 @@ I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on 
 [![Linkedin Badge](https://img.shields.io/badge/-emmajmhewson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/emmajmhewson/)](https://www.linkedin.com/in/emmajmhewson/)
 [![Gmail Badge](https://img.shields.io/badge/-emhewson@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emhewson@hotmail.com)](mailto:emhewson@hotmail.com)
 
+## 🏆 Recent Achievements
+* Chosen as Cohort Lead for Oct 2022 intake on Code Institute's Level 5 Diploma in Web Application Development
+* Hackathon Participant - Women In Tech - Mar 2023 - Code Institute
+* Hackathon Participant - Hackathon Hero - Nov 2022 - Code Institute
 
-## ⚡ Technologies
+## 💻 Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -19,7 +23,7 @@ I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on 
 ![Gitpod](https://img.shields.io/badge/-Gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-## ⚡ Learning
+## 🎓 Learning
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
@@ -32,7 +36,7 @@ I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 
-## ⚡ Other Skills
+## 😎 Other Skills
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
