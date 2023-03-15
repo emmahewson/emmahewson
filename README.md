@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on Code Institute's Level 5 Diploma in Web Application Development. Find out more about me and get in touch here:
 
@@ -40,10 +40,6 @@ I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-
-
 
 
 
