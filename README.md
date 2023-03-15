@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 
 I am Emma Hewson, a Junior Full-Stack Software Developer, currently studying on Code Institute's Level 5 Diploma in Web Application Development. Find out more about me and get in touch here:
 
